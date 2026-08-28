@@ -1,6 +1,6 @@
 ---
 title: Applied Calculus
-permalink: /college-algebra/
+permalink: /applied-calculus/
 nav:
   sidebar: applied-calculus
 ---
